@@ -1,4 +1,4 @@
-# Question1
+# Question 1
 Write a program in C# to display the characters and frequency of characters from a given string.
 
 ## Sample
